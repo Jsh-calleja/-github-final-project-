@@ -1,1 +1,5 @@
 https://github.com/Jsh-calleja/mcino-Introduction-to-Git-and-GitHub/branches
+git branch -vv
+  bug-fix-revert 8eeb66b [origin/bug-fix-revert] Revert "revert previous change- date update"
+  bug-fix-typo   82d2480 [origin/bug-fix-typo] Corrected typo
+* main           82d2480 [origin/main: ahead 2] Corrected typo
